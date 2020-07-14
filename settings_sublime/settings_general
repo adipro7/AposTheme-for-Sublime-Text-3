@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/AposTheme-Red/AposTheme-red.tmTheme",  //change the color here. 
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"  //change whichever default theme of sublime text you want to apply
+}

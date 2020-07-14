@@ -1,0 +1,44 @@
+{
+    "name": "apostheme",
+    "displayName": "AposTheme",
+    "description": "Apos' Theme for VSCode. Based on Brogrammer and Sapphire.",
+    "version": "0.7.3",
+    "publisher": "vyne",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Apostolique/AposTheme"
+    },
+    "bugs": {
+        "url": "https://github.com/Apostolique/AposTheme/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "AposTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AposTheme-color-theme.json"
+            },
+            {
+                "label": "AposThemeGray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AposTheme-gray-color-theme.json"
+            },
+            {
+                "label": "AposThemeGreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AposTheme-green-color-theme.json"
+            },
+            {
+                "label": "AposThemeRed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AposTheme-red-color-theme.json"
+            }
+        ]
+    }
+}

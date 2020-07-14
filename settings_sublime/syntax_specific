@@ -1,0 +1,4 @@
+{
+    "theme": "Brogrammer.sublime-theme",                               //change theme here whichever you want
+    "color_scheme":"Packages/AposTheme-Red/AposTheme-red.tmTheme",     //change the color here whochever you want
+}
