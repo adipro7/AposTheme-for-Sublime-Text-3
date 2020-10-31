@@ -29,15 +29,15 @@ Colors:
 
 # PREVIEW FOR SUBLIME TEXT:
 ### BLUE THEME
-Theme used (Syntax Specific): Brogrammer, Theme used(general):Sunrise, Color Scheme: Apos Blue
+Theme used (Syntax Specific)=> Brogrammer, Theme used(general):Sunrise, Color Scheme: Apos Blue
 <img src="https://github.com/adipro7/AposTheme-for-Sublime-Text-3/blob/master/docs/SUBLIME%20TEXT%20BLUE.png" alt="SUBLIME TEXT BLUE">
 
 ### GRAY THEME
-Theme used (Syntax Specific): Brogrammer, Theme used(general):Brogrammer/Adaptive, Color Scheme: Apos Gray
+Theme used (Syntax Specific)=> Brogrammer, Theme used(general):Brogrammer/Adaptive, Color Scheme: Apos Gray
 <img src="https://github.com/adipro7/AposTheme-for-Sublime-Text-3/blob/master/docs/SUBLIME%20TEXT%20GRAY.png" alt="SUBLIME TEXT GRAY">
 
 ### GREEN THEME
-Theme used (Syntax Specific): Brogrammer, Theme used(general):Adaptive, Color Scheme: Apos Green
+Theme used (Syntax Specific)=> Brogrammer, Theme used(general):Adaptive, Color Scheme: Apos Green
 <img src="https://github.com/adipro7/AposTheme-for-Sublime-Text-3/blob/master/docs/SUBLIME%20TEXT%20GREEN.png" alt="SUBLIME TEXT GREEN">
 
 ### RED THEME
